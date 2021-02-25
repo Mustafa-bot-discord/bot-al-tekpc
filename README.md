@@ -1,1 +1,4 @@
-# bot-al-tekpc
+# abone-ol-dostum
+ eksik modülleri konsoldan yükleyiniz
+# deneme
+# bh
